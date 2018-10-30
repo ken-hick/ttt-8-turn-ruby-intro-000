@@ -33,7 +33,7 @@ def move(array, index, value = "X")
 end
 
 
-def turn
+def turn(board)
   puts "Please enter 1-9"
   input = gets.strip
 end
